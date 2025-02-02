@@ -4,3 +4,4 @@
 
 para ejecutar el sitema, debes poner:
 
+´´´npm install react ´´´´
